@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tystprop",
+    "title": "TystProp",
+    "subtitle": "Propeller design workbench",
+    "wing": "Fluids · Acoustics",
+    "summary": "Design, print, test and optimise quiet propellers: a blade-element pre-screen, test-rig analysis, pattern analysis of shapes and noise, and Bayesian optimisation of the next designs.",
+    "formats": ["STEP", "IGES", "STL", "OBJ", "3MF", "CSV"],
+    "status": "available",
+    "path": "projects/tystprop/index.html",
+    "thumb": "assets/thumbs/tystprop.webp"
+  },
+  {
+    "id": "pinns-starter",
+    "title": "PINNs-Starter",
+    "subtitle": "Your first physics-informed network",
+    "wing": "Learning",
+    "summary": "Learn the method step by step: train a physics-informed network on a classic flow problem and see how the physics loss shapes the answer.",
+    "formats": ["CSV"],
+    "status": "soon",
+    "path": "projects/pinns-starter/index.html",
+    "thumb": "assets/thumbs/pinns-starter.webp"
+  },
+  {
+    "id": "pinns-advanced",
+    "title": "PINNs-Advanced",
+    "subtitle": "Inverse problems and real data",
+    "wing": "Fluids · Solids",
+    "summary": "Recover hidden parameters and full fields from sparse sensors or simulation data, with your own results from ANSYS Fluent and CFX, COMSOL or OpenFOAM.",
+    "formats": ["Fluent", "CFX", "COMSOL", "OpenFOAM", "CSV"],
+    "status": "soon",
+    "path": "projects/pinns-advanced/index.html",
+    "thumb": "assets/thumbs/pinns-advanced.webp"
+  }
+]
